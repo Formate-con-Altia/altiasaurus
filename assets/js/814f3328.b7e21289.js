@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaltiasaurus=self.webpackChunkaltiasaurus||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Clase inicial","permalink":"/blog/welcome"},{"title":"HTML, CSS e Introducci\xf3n a Git","permalink":"/blog/html-css-git"}]}')}}]);
