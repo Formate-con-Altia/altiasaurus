@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://altiasaurus.github.io/blog</id>
+    <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
     <updated>2021-12-19T07:15:00.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://altiasaurus.github.io/blog"/>
+    <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
-    <icon>https://altiasaurus.github.io/img/favicon.ico</icon>
+    <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Clase inicial]]></title>
         <id>welcome</id>
-        <link href="https://altiasaurus.github.io/blog/welcome"/>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/welcome"/>
         <updated>2021-12-19T07:15:00.821Z</updated>
         <summary type="html"><![CDATA[Canal de discord]]></summary>
         <content type="html"><![CDATA[<h2>Canal de discord</h2><p>Canal de Discord para coordinar la formación.
@@ -25,7 +25,7 @@
     <entry>
         <title type="html"><![CDATA[HTML, CSS e Introducción a Git]]></title>
         <id>html-css-git</id>
-        <link href="https://altiasaurus.github.io/blog/html-css-git"/>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/html-css-git"/>
         <updated>2012-12-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
         <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><h2>Recursos</h2><ul><li>Paso a paso en la creación de mi primera Web. <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics">Enlace</a></li><li>Tutorial HTML online para conocer los diferentes <strong>tags</strong> existentes <a href="https://www.w3schools.com/html/default.asp">Enlace</a></li><li>Curso Freecodecamp para practicar online gran parte de los conceptos Full Stack <a href="https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5">Enlace</a></li></ul><h2>Próxima sesión</h2>]]></content>

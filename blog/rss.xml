@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Altia Saurus Blog</title>
-        <link>https://altiasaurus.github.io/blog</link>
+        <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
         <lastBuildDate>Sun, 19 Dec 2021 07:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Clase inicial]]></title>
-            <link>https://altiasaurus.github.io/blog/welcome</link>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sun, 19 Dec 2021 07:15:00 GMT</pubDate>
             <description><![CDATA[Canal de discord]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[HTML, CSS e Introducción a Git]]></title>
-            <link>https://altiasaurus.github.io/blog/html-css-git</link>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/html-css-git</link>
             <guid>html-css-git</guid>
             <pubDate>Thu, 20 Dec 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
