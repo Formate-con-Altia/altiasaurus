@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Altia Saurus',
   tagline: 'Nuestro camino hacía el Full Stack',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://altiasaurus.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'altia', // Usually your GitHub org/user name.
+  organizationName: 'Formate-con-Altia', // Usually your GitHub org/user name.
   projectName: 'altiasaurus', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
