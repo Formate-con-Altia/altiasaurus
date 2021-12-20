@@ -9,7 +9,7 @@ const config = {
   title: 'Altia Saurus',
   tagline: 'Nuestro camino hacía el Full Stack',
   url: 'https://altiasaurus.github.io',
-  baseUrl: '/',
+  baseUrl: '/altiasaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
