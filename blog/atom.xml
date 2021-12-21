@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2021-12-19T07:15:00.821Z</updated>
+    <updated>2021-12-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CSS a fondo]]></title>
+        <id>css-selectores-especificidad</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/css-selectores-especificidad"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Qué es CSS</li><li>Selectores CSS</li><li>Especificidad CSS</li><li>Unidades de medida</li><li>Imágenes de fondo</li><li>GitHub (clone, git push, git pull)</li></ul><h2>Recursos</h2><ul><li>Selectores CSS combinados <a href="https://www.w3schools.com/css/css_combinators.asp">Enlace</a></li><li>Unidades CSS <a href="https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Values_and_units">Enlace</a></li><li>Imágenes de fond <a href="https://www.w3schools.com/css/css_background_image.asp">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Modelo de caja CSS</li><li>Posicionamiento</li><li>Estructura básica de la Web</li><li>Flexbox, Grid</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML, CSS e Introducción a Git]]></title>
+        <id>html-css-git</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/html-css-git"/>
+        <updated>2021-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Introducción de HTML. Que tipos de tags existen, estructura, etc.</li><li>Introducción a CSS. Estilos el línea.</li><li>Introducción a GIT: uso local.</li></ul><h2>Recursos</h2><ul><li>Paso a paso en la creación de mi primera Web. <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics">Enlace</a></li><li>Tutorial HTML online para conocer los diferentes <strong>tags</strong> existentes <a href="https://www.w3schools.com/html/default.asp">Enlace</a></li><li>Curso Freecodecamp para practicar online gran parte de los conceptos Full Stack <a href="https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5">Enlace</a></li><li>Lista de estilos CSS - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">Enlace</a></li><li>Chuleta GIT - <a href="https://education.github.com/git-cheat-sheet-education.pdf">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Selectores CSS</li><li>Imágenes de fondo CSS</li><li>Especificidad CSS</li><li>Unidades CSS</li><li>GitHub</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clase inicial]]></title>
         <id>welcome</id>
@@ -17,18 +41,6 @@
 <a href="https://discord.com/channels/921420857782468608/921420858361266328">Enlace</a></p><h2>Moodle con PDFs</h2><p>Presentaciones PDFs de los módulos del programa Full Stack de Red.es.
 <a href="https://campusvirtual.altiaformacionred.es/">Enlace</a></p><h2>Rutas Full Stack</h2><p><a href="https://roadmap.sh/frontend">Front End</a><br/>
 <a href="https://roadmap.sh/backend">Back End</a></p>]]></content>
-        <author>
-            <name>Óscar Miras</name>
-            <uri>https://github.com/omiras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML, CSS e Introducción a Git]]></title>
-        <id>html-css-git</id>
-        <link href="https://altiasaurus.github.io/altiasaurus/blog/html-css-git"/>
-        <updated>2012-12-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
-        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Introducción de HTML. Que tipos de tags existen, estructura, etc.</li><li>Introducción a CSS. Estilos el línea.</li><li>Introducción a GIT: uso local.</li></ul><h2>Recursos</h2><ul><li>Paso a paso en la creación de mi primera Web. <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics">Enlace</a></li><li>Tutorial HTML online para conocer los diferentes <strong>tags</strong> existentes <a href="https://www.w3schools.com/html/default.asp">Enlace</a></li><li>Curso Freecodecamp para practicar online gran parte de los conceptos Full Stack <a href="https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5">Enlace</a></li><li>Lista de estilos CSS - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">Enlace</a></li><li>Chuleta GIT - <a href="https://education.github.com/git-cheat-sheet-education.pdf">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Selectores CSS</li><li>Imágenes de fondo CSS</li><li>Especificidad CSS</li><li>Unidades CSS</li><li>GitHub</li></ul>]]></content>
         <author>
             <name>Óscar Miras</name>
             <uri>https://github.com/omiras</uri>
