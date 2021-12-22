@@ -2,7 +2,7 @@
 slug: css-selectores-especificidad
 title: CSS a fondo
 authors: [omiras]
-tags: [css, especificidad, , github]
+tags: [css, especificidad, selectores, github]
 ---
 
 ## Qué haremos hoy
