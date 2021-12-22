@@ -23,6 +23,7 @@ tags: [css, flex, grid, box model, fixed, static, absolute]
 - FlexDefense game - Aprender Flex [Enlace](http://www.flexboxdefense.com/)
 - Grid Garden [Enlace](https://cssgridgarden.com/#es)
 - Metodología BEM [Enlace](https://www.youtube.com/watch?v=wDUwGo98JTA)
+- Ponderaciones de la especificidad CSS explicada [Enlace](https://dev.to/lupitacode/especificidad-en-css-que-es-y-como-funciona-52k6)
 
 ## Próxima sesión
 
