@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Modelo de caja, posicionamiento y cajas flexibles]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/position-boxmodel-flex-grid</link>
+            <guid>position-boxmodel-flex-grid</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Juego sobre selectores CSS</li><li>Modelo de caja: márgenes, márgenes interiores o <strong>paddings</strong> , bordes y tamaños</li><li>Posicionamiento absoluto, relativo y fijo.</li><li>Cajas flexibles o flex box</li><li>Rejilla o grid</li><li>Maquetación completa de Web</li></ul><h2>Recursos</h2><ul><li>Flex Tutorial <a href="https://www.youtube.com/watch?v=siKKg8Y_tQY">Enlace</a></li><li>Grid Tutorial <a href="https://www.youtube.com/watch?v=9zBsdzdE4sM">Enlace</a></li><li>Awasome CSS <a href="https://github.com/awesome-css-group/awesome-css">Enlace</a></li><li>Flexfrog game - Aprender Flex <a href="https://github.com/awesome-css-group/awesome-css">Enlace</a></li><li>FlexDefense game - Aprender Flex <a href="http://www.flexboxdefense.com/">Enlace</a></li><li>Grid Garden <a href="https://cssgridgarden.com/#es">Enlace</a></li><li>Metodología BEM <a href="https://www.youtube.com/watch?v=wDUwGo98JTA">Enlace</a></li><li>Ponderaciones de la especificidad CSS explicada <a href="https://dev.to/lupitacode/especificidad-en-css-que-es-y-como-funciona-52k6">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Pair Programming</li><li>Reto CSS por parejas</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[CSS a fondo]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/css-selectores-especificidad</link>

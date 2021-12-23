@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2021-12-21T00:00:00.000Z</updated>
+    <updated>2021-12-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Modelo de caja, posicionamiento y cajas flexibles]]></title>
+        <id>position-boxmodel-flex-grid</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/position-boxmodel-flex-grid"/>
+        <updated>2021-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Juego sobre selectores CSS</li><li>Modelo de caja: márgenes, márgenes interiores o <strong>paddings</strong> , bordes y tamaños</li><li>Posicionamiento absoluto, relativo y fijo.</li><li>Cajas flexibles o flex box</li><li>Rejilla o grid</li><li>Maquetación completa de Web</li></ul><h2>Recursos</h2><ul><li>Flex Tutorial <a href="https://www.youtube.com/watch?v=siKKg8Y_tQY">Enlace</a></li><li>Grid Tutorial <a href="https://www.youtube.com/watch?v=9zBsdzdE4sM">Enlace</a></li><li>Awasome CSS <a href="https://github.com/awesome-css-group/awesome-css">Enlace</a></li><li>Flexfrog game - Aprender Flex <a href="https://github.com/awesome-css-group/awesome-css">Enlace</a></li><li>FlexDefense game - Aprender Flex <a href="http://www.flexboxdefense.com/">Enlace</a></li><li>Grid Garden <a href="https://cssgridgarden.com/#es">Enlace</a></li><li>Metodología BEM <a href="https://www.youtube.com/watch?v=wDUwGo98JTA">Enlace</a></li><li>Ponderaciones de la especificidad CSS explicada <a href="https://dev.to/lupitacode/especificidad-en-css-que-es-y-como-funciona-52k6">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Pair Programming</li><li>Reto CSS por parejas</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS a fondo]]></title>
         <id>css-selectores-especificidad</id>
