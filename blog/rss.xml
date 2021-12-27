@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Reto Front End]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/reto-front-end</link>
+            <guid>reto-front-end</guid>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Reto completo Front End</li><li>Introducción al Pair Programming</li><li>Caso de uso: Mi GitHub es compartido</li><li>Publicar nuestra solución para recibir <strong>feedback</strong></li></ul><h2>Recursos</h2><ul><li>HTML5 Semántico. - <a href="https://www.arkaitzgarro.com/html5/capitulo-2.html">Enlace</a></li><li>Variables CSS - <a href="https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties">Enlace</a></li><li>Resolviendo un reto Front End Elementor <a href="https://www.youtube.com/watch?v=ZrNSsa9RX5E">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Media queries</li><li>Frameworks CSS</li><li>Introducción a la programación con JavaScript</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Modelo de caja, posicionamiento y cajas flexibles]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/position-boxmodel-flex-grid</link>

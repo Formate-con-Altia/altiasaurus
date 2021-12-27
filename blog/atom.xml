@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2021-12-22T00:00:00.000Z</updated>
+    <updated>2021-12-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Reto Front End]]></title>
+        <id>reto-front-end</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/reto-front-end"/>
+        <updated>2021-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Reto completo Front End</li><li>Introducción al Pair Programming</li><li>Caso de uso: Mi GitHub es compartido</li><li>Publicar nuestra solución para recibir <strong>feedback</strong></li></ul><h2>Recursos</h2><ul><li>HTML5 Semántico. - <a href="https://www.arkaitzgarro.com/html5/capitulo-2.html">Enlace</a></li><li>Variables CSS - <a href="https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties">Enlace</a></li><li>Resolviendo un reto Front End Elementor <a href="https://www.youtube.com/watch?v=ZrNSsa9RX5E">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Media queries</li><li>Frameworks CSS</li><li>Introducción a la programación con JavaScript</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modelo de caja, posicionamiento y cajas flexibles]]></title>
         <id>position-boxmodel-flex-grid</id>
