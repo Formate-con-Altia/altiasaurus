@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Thu, 23 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Media queries, responsive e introducción JavaScript]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/media-queries-responsive-intro-js</link>
+            <guid>media-queries-responsive-intro-js</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>HTML Semántico</li><li>Variables CSS</li><li>Diseño responsive</li><li>Media queries</li><li>Introducción a la programación/JavaScript</li></ul><h2>Recursos</h2><ul><li>Ejemplo visual de una <a href="https://www.semrush.com/blog/semantic-html5-guide/#more-complex-html5-examples">Web semántica</a></li><li>Variables CSS - <a href="https://www.w3schools.com/css/css3_variables.asp">Enlace</a></li><li>The Net Ninja. Creación de una Web responsive desde cero - <a href="https://www.youtube.com/watch?v=PM3XW_1RAIs">Enlace</a></li><li>Ejercicios JavaScript de FreeCodecamp. Idealmente, hacer todos de la sección <strong>Basic JavaScript</strong> - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Formularios HTML</li><li>Lógica condicional y bucles en JavaScript</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Reto Front End]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/reto-front-end</link>
