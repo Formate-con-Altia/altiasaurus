@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2022-01-03T00:00:00.000Z</updated>
+    <updated>2022-01-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Formularios HTML, Framework CSS, Lógica condicional y bucles]]></title>
+        <id>formularios-frameworkcss-loop-condicionales</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/formularios-frameworkcss-loop-condicionales"/>
+        <updated>2022-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Un poco más sobre media queries</li><li>Introducción a los formularios HTML5</li><li>JavaScript: lógica condicional y código iterativo</li></ul><h2>Recursos</h2><ul><li>Ejemplo visual de una <a href="https://www.semrush.com/blog/semantic-html5-guide/#more-complex-html5-examples">Web semántica</a></li><li>Variables CSS - <a href="https://www.w3schools.com/css/css3_variables.asp">Enlace</a></li><li>The Net Ninja. Creación de una Web responsive desde cero - <a href="https://www.youtube.com/watch?v=PM3XW_1RAIs">Enlace</a></li><li>Ejercicios JavaScript de FreeCodecamp. Idealmente, hacer todos de la sección <strong>Basic JavaScript</strong> - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Formularios HTML</li><li>Lógica condicional y bucles en JavaScript</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Media queries, responsive e introducción JavaScript]]></title>
         <id>media-queries-responsive-intro-js</id>
