@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Tue, 04 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Formularios HTML, Framework CSS, Funciones JavaScript]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/frameworkcss-funciones-js</link>
+            <guid>frameworkcss-funciones-js</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Concepto de framework CSS</li><li>Funciones en JavaScript</li></ul><h2>Recursos</h2><h2>Próxima sesión</h2>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Formularios HTML, Framework CSS, Lógica condicional y bucles]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/formularios-loop-condicionales</link>
