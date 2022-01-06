@@ -8,12 +8,12 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Formularios HTML, Framework CSS, Funciones JavaScript]]></title>
+            <title><![CDATA[Funciones JavaScript]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/frameworkcss-funciones-js</link>
             <guid>frameworkcss-funciones-js</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
-            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Concepto de framework CSS</li><li>Funciones en JavaScript</li></ul><h2>Recursos</h2><h2>Próxima sesión</h2>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Funciones en JavaScript</li><li>Más sobre variables JavaScript</li></ul><h2>Recursos</h2><ul><li>Funciones en 5 minutos, por the Net Ninja - <a href="https://www.youtube.com/watch?v=lK42xIMcA0Y">Elace</a></li><li>Buenas prácticas al nombrar variables en JavaScript - <a href="https://medium.com/swlh/javascript-best-practices-variable-naming-3671350aca01">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>El tipo de dato &quot;array&quot; en JavaScript</li><li>Frameworks CSS</li><li>Adrián Rey explicará una maquetación con el Framework Tailwind</li><li>Introducción a la maquetación con Bootstrap</li><li>Ejercicios Bootstrap</li><li>Challenge Front End con framework CSS</li><li>Challenge conjunto quien lo desee para repasar conceptos</li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Formularios HTML, Framework CSS, Lógica condicional y bucles]]></title>
@@ -21,7 +21,7 @@
             <guid>formularios-loop-condicionales</guid>
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
-            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Un poco más sobre media queries</li><li>Introducción a los formularios HTML5</li><li>JavaScript: lógica condicional y código iterativo</li></ul><h2>Recursos</h2><ul><li>Muy buena explicación sobre las diferentes maneras que podemos usar media queries - <a href="https://desarrolloweb.com/articulos/css-media-queries.html">Enlace</a></li><li>A veces es mejor empezar de un código ya creado y adaptarlo a nuestra solución. Conjunto de <a href="https://www.w3docs.com/learn-html/html-form-templates.html">60 formularios &quot;típicos&quot;</a> para ser modificados.</li><li>Operadores lógicos en JavaScript - <a href="https://www.freecodecamp.org/espanol/news/operadores-logicos-javascript/">Enlace</a></li><li></li></ul><h2>Próxima sesión</h2><ul><li>Frameworks CSS</li><li>Funciones en JavaScript</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Un poco más sobre media queries</li><li>Introducción a los formularios HTML5</li><li>JavaScript: lógica condicional y código iterativo</li></ul><h2>Recursos</h2><ul><li>Muy buena explicación sobre las diferentes maneras que podemos usar media queries - <a href="https://desarrolloweb.com/articulos/css-media-queries.html">Enlace</a></li><li>A veces es mejor empezar de un código ya creado y adaptarlo a nuestra solución. Conjunto de <a href="https://www.w3docs.com/learn-html/html-form-templates.html">60 formularios &quot;típicos&quot;</a> para ser modificados.</li><li>Operadores lógicos en JavaScript - <a href="https://www.freecodecamp.org/espanol/news/operadores-logicos-javascript/">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Frameworks CSS</li><li>Funciones en JavaScript</li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Media queries, responsive e introducción JavaScript]]></title>
