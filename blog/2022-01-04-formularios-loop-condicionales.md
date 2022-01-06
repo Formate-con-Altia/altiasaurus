@@ -16,7 +16,6 @@ tags: [javascript, forms, if, else, while, forEach]
 - Muy buena explicación sobre las diferentes maneras que podemos usar media queries - [Enlace](https://desarrolloweb.com/articulos/css-media-queries.html)
 - A veces es mejor empezar de un código ya creado y adaptarlo a nuestra solución. Conjunto de [60 formularios "típicos"](https://www.w3docs.com/learn-html/html-form-templates.html) para ser modificados.
 - Operadores lógicos en JavaScript - [Enlace](https://www.freecodecamp.org/espanol/news/operadores-logicos-javascript/)
--
 
 ## Próxima sesión
 
