@@ -12,6 +12,9 @@ tags: [javascript, function]
 
 ## Recursos
 
+- Funciones en 5 minutos, por the Net Ninja - [Elace](https://www.youtube.com/watch?v=lK42xIMcA0Y)
+- Buenas prácticas al nombrar variables en JavaScript - [Enlace](https://medium.com/swlh/javascript-best-practices-variable-naming-3671350aca01)
+
 ## Próxima sesión
 
 - El tipo de dato "array" en JavaScript
