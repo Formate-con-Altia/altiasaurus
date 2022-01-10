@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Wed, 05 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arrays en JavaScript y Frameworks CSS]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/frameworkcss-array-js</link>
+            <guid>frameworkcss-array-js</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Arrays en JavaScript</li><li>Frameworks CSS</li></ul><h2>Recursos</h2><ul><li>Explicación bien detallada del concepto de Array, por Pildoras Informáticas <a href="https://www.youtube.com/watch?v=hTeFMke6F6Q">Vídeo</a></li><li>Crear una página Web desde cero con Bootstrap 5 <a href="https://www.youtube.com/watch?v=4sosXZsdy-s">Vídeo</a></li><li>Resumen, explicación y recursos <strong>muy bien estructurados</strong> de diferentes conceptos de programación HTML/CSS/JavaScript - <a href="https://lenguajejs.com/">Enlace</a></li><li>Explicación del framwork CSS y maquetación de la Web Zenva por <a href="https://github.com/arlomba/altia-tailwindcss">Adrian Rey</a></li><li>Altiaverse, maquetación de Web con HTML y CSS (Work in Progress) por <a href="https://github.com/davidgomezfrieiro/ALTIAVERSE">David Gomez</a></li></ul><h1>Grabaciones clase</h1><ul><li>Explicación de arrays JavaScript <a href="https://youtu.be/7yl7WbwFoO0">Vídeo</a></li><li>Explicación del framework Tailwind por <a href="https://github.com/arlomba">Adrian Rey</a>. Ventajas y desventahas. Consejos de donde coger inspiración para nuestros propias diseños <a href="https://www.youtube.com/watch?v=ACKNKYFWkVs">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>El tipo de variable Object</li><li>Introducción al DOM (Document Object Model)</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Funciones JavaScript]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/frameworkcss-funciones-js</link>
