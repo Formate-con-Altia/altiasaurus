@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2022-01-07T00:00:00.000Z</updated>
+    <updated>2022-01-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Objetos JavaScript e Introducción al DOM]]></title>
+        <id>objectos-js-introduccion-dom</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/objectos-js-introduccion-dom"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Creación, modificación y manipulación de objetos en JavaScript</li><li>Manipulación del DOM(Document Object Model) e introducción a los eventos de JavaScript</li></ul><h2>Recursos</h2><ul><li>Aprendre manipulación del DOM en 18 minutos <a href="https://www.youtube.com/watch?v=y17RuWkWdn8">Vídeo</a></li><li>FreeCodeCamp: como crear y manipular objetos JavaScript <a href="https://www.freecodecamp.org/espanol/news/javascript-crear-objecto-como-definir-objetos-en-js/">Enlace</a></li></ul><h1>Grabaciones clase</h1><ul><li>Los objetos en JavaScript <a href="https://youtu.be/w138cuC5_6U">Vídeo</a></li><li>Manipulación del DOM e introducción a eventos <a href="https://youtu.be/vCCphjOFb10">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Más sobre eventos y manipulació del DOM</li><li>Resolución de algoritmos y transformación de datos</li><li>Ejercicios</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arrays en JavaScript y Frameworks CSS]]></title>
         <id>frameworkcss-array-js</id>
