@@ -14,7 +14,9 @@ tags: [javascript, array, bootstrap, tailwind, framework]
 
 - Explicación bien detallada del concepto de Array, por Pildoras Informáticas [Vídeo](https://www.youtube.com/watch?v=hTeFMke6F6Q)
 - Crear una página Web desde cero con Bootstrap 5 [Vídeo](https://www.youtube.com/watch?v=4sosXZsdy-s)
+- Resumen, explicación y recursos **muy bien estructurados** de diferentes conceptos de programación HTML/CSS/JavaScript - [Enlace](https://lenguajejs.com/)
 - Explicación del framwork CSS y maquetación de la Web Zenva por [Adrian Rey](https://github.com/arlomba/altia-tailwindcss)
+- Altiaverse, maquetación de Web con HTML y CSS (Work in Progress) por [David Gomez](https://github.com/davidgomezfrieiro/ALTIAVERSE)
 
 # Grabaciones clase
 
