@@ -15,7 +15,7 @@ tags: [javascript, array, bootstrap, tailwind, framework]
 - Aprendre manipulación del DOM en 18 minutos [Vídeo](https://www.youtube.com/watch?v=y17RuWkWdn8)
 - FreeCodeCamp: como crear y manipular objetos JavaScript [Enlace](https://www.freecodecamp.org/espanol/news/javascript-crear-objecto-como-definir-objetos-en-js/)
 
-# Grabaciones clase
+## Grabaciones clase
 
 - Los objetos en JavaScript [Vídeo](https://youtu.be/w138cuC5_6U)
 - Manipulación del DOM e introducción a eventos [Vídeo](https://youtu.be/vCCphjOFb10)
