@@ -4,16 +4,24 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DOM, Eventos y algorítmica]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/2022-01-11-profundizar-dom-eventos-algortmica</link>
+            <guid>2022-01-11-profundizar-dom-eventos-algortmica</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li><p>Algorítmica básica. Planteamiento de problemas y resolución.</p></li><li><p>Ampliar manipulación del DOM</p><ul><li>Conocer el objeto <strong>event</strong></li><li>Seleccionar varios nodos a la vez</li><li>Recorrer un conjunto de nodos</li></ul></li><li><p>Concepto de estado de un aplicación</p></li></ul><h2>Recursos</h2><ul><li>10 sitios online para practicar algorítmica <a href="https://www.freecodecamp.org/espanol/news/los-10-sitios-web-mas-populares-para-desafios-de-programacion-actualizado-para-2020/">Enlace</a></li><li>Como resolver un algorítmo en una entrevista técnica <a href="https://www.freecodecamp.org/news/how-to-approach-any-algorithm-interview-without-panicking-b6d7ae5c050/">Enlace</a></li><li>Lista de los eventos más comunes con ejemplos <a href="https://www.w3schools.com/js/js_events_examples.asp">Enlace</a></li></ul><h2>Grabaciones clase</h2><ul><li>Como resolver algoritmo CodeWards <a href="https://youtu.be/XVYfKBznDA8">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Contribuir al repositorio de algoritmos</li><li>Aprender a contribuir en un repositorio GitHub que no es el vuestro</li><li>Buenas prácticas y reusabilidad de funciones</li><li>Burbujeo de eventos</li><li>Concepto de asincronía</li><li>Reto 30 ejercicios JavaScript</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Objetos JavaScript e Introducción al DOM]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/objectos-js-introduccion-dom</link>
             <guid>objectos-js-introduccion-dom</guid>
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
-            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Creación, modificación y manipulación de objetos en JavaScript</li><li>Manipulación del DOM(Document Object Model) e introducción a los eventos de JavaScript</li></ul><h2>Recursos</h2><ul><li>Aprendre manipulación del DOM en 18 minutos <a href="https://www.youtube.com/watch?v=y17RuWkWdn8">Vídeo</a></li><li>FreeCodeCamp: como crear y manipular objetos JavaScript <a href="https://www.freecodecamp.org/espanol/news/javascript-crear-objecto-como-definir-objetos-en-js/">Enlace</a></li></ul><h1>Grabaciones clase</h1><ul><li>Los objetos en JavaScript <a href="https://youtu.be/w138cuC5_6U">Vídeo</a></li><li>Manipulación del DOM e introducción a eventos <a href="https://youtu.be/vCCphjOFb10">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Más sobre eventos y manipulació del DOM</li><li>Resolución de algoritmos y transformación de datos</li><li>Ejercicios</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Creación, modificación y manipulación de objetos en JavaScript</li><li>Manipulación del DOM(Document Object Model) e introducción a los eventos de JavaScript</li></ul><h2>Recursos</h2><ul><li>Aprendre manipulación del DOM en 18 minutos <a href="https://www.youtube.com/watch?v=y17RuWkWdn8">Vídeo</a></li><li>FreeCodeCamp: como crear y manipular objetos JavaScript <a href="https://www.freecodecamp.org/espanol/news/javascript-crear-objecto-como-definir-objetos-en-js/">Enlace</a></li></ul><h2>Grabaciones clase</h2><ul><li>Los objetos en JavaScript <a href="https://youtu.be/w138cuC5_6U">Vídeo</a></li><li>Manipulación del DOM e introducción a eventos <a href="https://youtu.be/vCCphjOFb10">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Más sobre eventos y manipulació del DOM</li><li>Resolución de algoritmos y transformación de datos</li><li>Ejercicios</li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Arrays en JavaScript y Frameworks CSS]]></title>
