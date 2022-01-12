@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Altia Saurus',
-  tagline: 'Nuestro camino hacía el Full Stack',
+  tagline: 'Nuestro camino hacia el Full Stack',
   url: 'https://altiasaurus.github.io',
   baseUrl: '/altiasaurus/',
   onBrokenLinks: 'throw',

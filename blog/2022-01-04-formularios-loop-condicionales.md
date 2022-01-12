@@ -1,6 +1,6 @@
 ---
 slug: formularios-loop-condicionales
-title: Formularios HTML, Framework CSS, Lógica condicional y bucles
+title: Formularios HTML, Lógica condicional y bucles
 authors: [omiras]
 tags: [javascript, forms, if, else, while, forEach]
 ---
