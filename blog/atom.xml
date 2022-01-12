@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2022-01-11T00:00:00.000Z</updated>
+    <updated>2022-01-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DOM, eventos, GitHub remoto, ambito de variables]]></title>
+        <id>2022-01-12-dom-algoritmos-github</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-12-dom-algoritmos-github"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Manipulación DOM</li><li>QuerySelectorAll</li><li>Ámbito de una variable</li><li>Evaluación de variables que no son del tipo boleano</li><li>Refatorización básica</li></ul><h2>Recursos</h2><ul><li>Ámbito de una variable <a href="https://desarrolloweb.com/articulos/517.php">Enlace</a></li><li>Cómo iterar una lista de nodos con QuerySelectorAll <a href="https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/">Enlace</a></li><li>3 técnicas básicas de refactorización: funciones, usar objetos como parámetros, usar clases (lo veremos más adelante) <a href="https://levelup.gitconnected.com/3-javascript-refactoring-techniques-for-clean-code-c356be1abbcb">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Burbujeo de eventos</li><li>Concepto de asincronía</li><li>Consumir una API</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOM, Eventos y algorítmica]]></title>
         <id>2022-01-11-profundizar-dom-eventos-algortmica</id>
@@ -56,7 +68,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Formularios HTML, Framework CSS, Lógica condicional y bucles]]></title>
+        <title type="html"><![CDATA[Formularios HTML, Lógica condicional y bucles]]></title>
         <id>formularios-loop-condicionales</id>
         <link href="https://altiasaurus.github.io/altiasaurus/blog/formularios-loop-condicionales"/>
         <updated>2022-01-04T00:00:00.000Z</updated>
