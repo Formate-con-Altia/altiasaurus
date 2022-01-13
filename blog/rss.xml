@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Wed, 12 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 07:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Modularización, burbujeo de eventos y consumo de APIs]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/20222-01-13-bubbling-asincronia-modulos</link>
+            <guid>20222-01-13-bubbling-asincronia-modulos</guid>
+            <pubDate>Thu, 13 Jan 2022 07:18:00 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día por David Pérez</li><li>Modularización de JavaScript</li><li>Concepto de asincronía</li><li>Consumir de APIs</li><li>Brainstorming</li></ul><h2>Recursos</h2><ul><li>Async/await en JavaScript moderno <a href="https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await">Enlace</a></li><li>API de Spotify <a href="https://developer.spotify.com/documentation/web-api/">Enlace</a> .</li><li>API de GitHub. Consultar los repositorios de Iago Fernandez <a href="https://api.github.com/users/IagoFernandezBlanco/repos">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Burbujeo de eventos</li><li>Ejercicio sorpresa</li><li>Reto en grupo</li><li>Challenge pair programming</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[DOM, eventos, GitHub remoto, ambito de variables]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/2022-01-12-dom-algoritmos-github</link>

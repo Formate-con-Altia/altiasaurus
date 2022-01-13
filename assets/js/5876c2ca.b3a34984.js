@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaltiasaurus=self.webpackChunkaltiasaurus||[]).push([[7098],{2132:function(a){a.exports=JSON.parse('{"allTagsPath":"/altiasaurus/blog/tags","slug":"/altiasaurus/blog/tags/asincronia","name":"asincron\xeda","count":1,"permalink":"/altiasaurus/blog/tags/asincronia"}')}}]);
