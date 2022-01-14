@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaltiasaurus=self.webpackChunkaltiasaurus||[]).push([[4872],{2276:function(a){a.exports=JSON.parse('{"allTagsPath":"/altiasaurus/blog/tags","slug":"/altiasaurus/blog/tags/event-bubbling","name":"event bubbling","count":2,"permalink":"/altiasaurus/blog/tags/event-bubbling"}')}}]);

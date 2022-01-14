@@ -4,9 +4,17 @@
         <title>Altia Saurus Blog</title>
         <link>https://altiasaurus.github.io/altiasaurus/blog</link>
         <description>Altia Saurus Blog</description>
-        <lastBuildDate>Thu, 13 Jan 2022 07:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Burbujeo de eventos, bibliotecas]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/20222-01-14-bubbling-bibliotecas-reto</link>
+            <guid>20222-01-14-bubbling-bibliotecas-reto</guid>
+            <pubDate>Fri, 14 Jan 2022 07:27:21 GMT</pubDate>
+            <description><![CDATA[Qué haremos hoy]]></description>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Event bubbling</li><li>El encargo del jefe técnico</li><li>Biblioteca JQuery</li><li>Trabajo en equipo de dos personas</li></ul><h2>Recursos</h2><ul><li>Burbujeo de eventos <a href="https://javascript.info/bubbling-and-capturing">Enlace</a></li><li>Crash Curse JQuery <a href="https://www.youtube.com/watch?v=3nrLc_JOF7k">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Introducción a NodeJS</li><li>Node Package Manager</li><li>Brainstorming</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Modularización, burbujeo de eventos y consumo de APIs]]></title>
             <link>https://altiasaurus.github.io/altiasaurus/blog/20222-01-13-bubbling-asincronia-modulos</link>

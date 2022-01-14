@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2022-01-13T07:18:00.959Z</updated>
+    <updated>2022-01-14T07:27:21.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Burbujeo de eventos, bibliotecas]]></title>
+        <id>20222-01-14-bubbling-bibliotecas-reto</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/20222-01-14-bubbling-bibliotecas-reto"/>
+        <updated>2022-01-14T07:27:21.534Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Event bubbling</li><li>El encargo del jefe técnico</li><li>Biblioteca JQuery</li><li>Trabajo en equipo de dos personas</li></ul><h2>Recursos</h2><ul><li>Burbujeo de eventos <a href="https://javascript.info/bubbling-and-capturing">Enlace</a></li><li>Crash Curse JQuery <a href="https://www.youtube.com/watch?v=3nrLc_JOF7k">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Introducción a NodeJS</li><li>Node Package Manager</li><li>Brainstorming</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modularización, burbujeo de eventos y consumo de APIs]]></title>
         <id>20222-01-13-bubbling-asincronia-modulos</id>
