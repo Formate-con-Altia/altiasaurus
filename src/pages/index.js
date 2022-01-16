@@ -16,6 +16,12 @@ function HomepageHeader() {
   );
 }
 
+function Mainpage() {
+  return (
+    <main className={styles.heroMain}>
+    </main>
+  );
+}
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -24,6 +30,7 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
+      <Mainpage />
     </Layout>
   );
 }

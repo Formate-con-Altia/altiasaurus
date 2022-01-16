@@ -8,6 +8,19 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  z-index: 10;
+  opacity: 0.8;
+}
+
+.heroMain {
+  background-image: url("../../static/img/classroom.jpeg");
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.75;
 }
 
 @media screen and (max-width: 966px) {
