@@ -2,16 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2022-01-17T07:16:25.703Z</updated>
+    <updated>2022-01-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[NPM, Módulos y Express]]></title>
+        <id>2022-01-18-npm-express-modulos</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-18-npm-express-modulos"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Módulos en NodeJS</li><li>Node Package Manager</li><li>Framework Express</li></ul><h2>Recursos</h2><ul><li>Buena explicación de Mozilla sobre la filosofía y uso del framework Express <a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction">Enlace</a></li><li>Aprender Express en 10 minutos <a href="https://www.guru99.com/node-js-express.html">Enlace</a></li><li>NPM Crash Course <a href="https://www.youtube.com/watch?v=jHDhaSSKmB0">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Concepto de recursos estáticos</li><li>Motores de plantilla</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducción a NodeJS, NPM y módulos Node]]></title>
-        <id>20222-01-17-nodejs-npm</id>
-        <link href="https://altiasaurus.github.io/altiasaurus/blog/20222-01-17-nodejs-npm"/>
-        <updated>2022-01-17T07:16:25.703Z</updated>
+        <id>2022-01-17-nodejs-npm</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-17-nodejs-npm"/>
+        <updated>2022-01-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
         <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día: Puntuación Scrabble</li><li>Introducción a NodeJS<ul><li>NodeJS desde la línea de comandso</li><li>Acceso al sistema de archivos</li><li>Gestión de peticiones HTTP</li></ul></li></ul><h2>Recursos</h2><ul><li>Tutorial y ejemplos sobre NodeJs - <a href="https://nodejs.dev/learn">Enlace</a></li><li>Escritura en ficheros con NodeJs - <a href="https://www.geeksforgeeks.org/node-js-fs-writefile-method/">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Módulos en NodeJS</li><li>Node Package Manager</li><li>Brainstorming sessión 3</li></ul>]]></content>
         <author>
@@ -21,9 +33,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Burbujeo de eventos, bibliotecas]]></title>
-        <id>20222-01-14-bubbling-bibliotecas-reto</id>
-        <link href="https://altiasaurus.github.io/altiasaurus/blog/20222-01-14-bubbling-bibliotecas-reto"/>
-        <updated>2022-01-14T07:27:21.534Z</updated>
+        <id>2022-01-14-bubbling-bibliotecas-reto</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-14-bubbling-bibliotecas-reto"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
         <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Event bubbling</li><li>El encargo del jefe técnico</li><li>Biblioteca JQuery</li><li>Trabajo en equipo de dos personas</li></ul><h2>Recursos</h2><ul><li>Burbujeo de eventos <a href="https://javascript.info/bubbling-and-capturing">Enlace</a></li><li>Crash Curse JQuery <a href="https://www.youtube.com/watch?v=3nrLc_JOF7k">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Introducción a NodeJS</li><li>Node Package Manager</li><li>Brainstorming</li></ul>]]></content>
         <author>
@@ -33,9 +45,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Modularización, burbujeo de eventos y consumo de APIs]]></title>
-        <id>20222-01-13-bubbling-asincronia-modulos</id>
-        <link href="https://altiasaurus.github.io/altiasaurus/blog/20222-01-13-bubbling-asincronia-modulos"/>
-        <updated>2022-01-13T07:18:00.959Z</updated>
+        <id>2022-01-13-bubbling-asincronia-modulos</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-13-bubbling-asincronia-modulos"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
         <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día por David Pérez</li><li>Modularización de JavaScript</li><li>Concepto de asincronía</li><li>Consumir de APIs</li><li>Brainstorming</li></ul><h2>Recursos</h2><ul><li>Async/await en JavaScript moderno <a href="https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await">Enlace</a></li><li>API de Spotify <a href="https://developer.spotify.com/documentation/web-api/">Enlace</a> .</li><li>API de GitHub. Consultar los repositorios de Iago Fernandez <a href="https://api.github.com/users/IagoFernandezBlanco/repos">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Burbujeo de eventos</li><li>Ejercicio sorpresa</li><li>Reto en grupo</li><li>Challenge pair programming</li></ul>]]></content>
         <author>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaltiasaurus=self.webpackChunkaltiasaurus||[]).push([[6907],{7827:function(s){s.exports=JSON.parse('{"allTagsPath":"/altiasaurus/blog/tags","slug":"/altiasaurus/blog/tags/express","name":"express","count":1,"permalink":"/altiasaurus/blog/tags/express"}')}}]);
