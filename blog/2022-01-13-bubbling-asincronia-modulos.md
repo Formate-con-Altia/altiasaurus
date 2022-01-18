@@ -1,5 +1,5 @@
 ---
-slug: 20222-01-13-bubbling-asincronia-modulos
+slug: 2022-01-13-bubbling-asincronia-modulos
 title: Modularización, burbujeo de eventos y consumo de APIs
 authors: [omiras]
 tags: [event bubbling, async, await, asincronía, modulos]

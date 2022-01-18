@@ -1,5 +1,5 @@
 ---
-slug: 20222-01-14-bubbling-bibliotecas-reto
+slug: 2022-01-14-bubbling-bibliotecas-reto
 title: Burbujeo de eventos, bibliotecas
 authors: [omiras]
 tags: [event bubbling, bibliotecas, jquery]

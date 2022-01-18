@@ -1,5 +1,5 @@
 ---
-slug: 20222-01-17-nodejs-npm
+slug: 2022-01-17-nodejs-npm
 title: Introducción a NodeJS, NPM y módulos Node
 authors: [omiras]
 tags: [nodejs, npm, modulos]
