@@ -1,8 +1,8 @@
 ---
-slug: 2022-01-24-mvc-mongodb
-title: El patrón de software MVC e Introducción a MongoDB
+slug: 2022-01-24-fototeca-mvc-mongodb
+title: Introducción a MongoDB
 authors: [omiras]
-tags: [nodejs, npm, mvc, patrones software, mongodb, atlas]
+tags: [nodejs, npm, mvc, mongodb, atlas]
 ---
 
 ## Qué haremos hoy
