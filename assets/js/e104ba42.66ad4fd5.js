@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaltiasaurus=self.webpackChunkaltiasaurus||[]).push([[730],{337:function(a){a.exports=JSON.parse('{"allTagsPath":"/altiasaurus/blog/tags","slug":"/altiasaurus/blog/tags/patrones-software","name":"patrones software","count":1,"permalink":"/altiasaurus/blog/tags/patrones-software"}')}}]);
