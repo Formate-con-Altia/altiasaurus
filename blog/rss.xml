@@ -8,20 +8,20 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[El patrón de software MVC e Introducción a MongoDB]]></title>
-            <link>https://altiasaurus.github.io/altiasaurus/blog/2022-01-24-mvc-mongodb</link>
-            <guid>2022-01-24-mvc-mongodb</guid>
+            <title><![CDATA[Introducción a MongoDB]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/2022-01-24-fototeca-mvc-mongodb</link>
+            <guid>2022-01-24-fototeca-mvc-mongodb</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
             <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día: Ángel Amado</li><li>Introducción a MongoDB usando el servidor Atlas</li></ul><h2>Recursos</h2><ul><li>Tutorial para instalar el servidor MongoDB en local y conocer su funcionamiento <a href="https://www.youtube.com/watch?v=lWMemPN9t6Q">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Transformar fototeca a MVC<ul><li>Ejercicios</li></ul></li><li>Gestión grácil de errores</li><li>Uso de MongoDB desde NodeJS</li><li>Esquelto inicial Valida.me y Github</li></ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Recursos estátics y motores de plantillas]]></title>
-            <link>https://altiasaurus.github.io/altiasaurus/blog/2022-01-19-static-ejs</link>
-            <guid>2022-01-19-static-ejs</guid>
+            <title><![CDATA[Partials EJS y Brainstorming]]></title>
+            <link>https://altiasaurus.github.io/altiasaurus/blog/2022-01-20-partials</link>
+            <guid>2022-01-20-partials</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
-            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Brainstorming definir proyectos</li><li>Partials</li><li>Brainstorming 14h - elegir proyecto</li></ul><h2>Recursos</h2><h2>Próxima sesión</h2>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Brainstorming definir proyectos</li><li>Partials</li><li>Brainstorming 14h - elegir proyecto</li></ul><h2>Recursos</h2><ul><li>Lluvía de ideas con Miro <a href="https://miro.com/es/lluvia-de-ideas-online/">Enlace</a></li></ul><h2>Próxima sesión</h2>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Recursos estátics y motores de plantillas]]></title>
