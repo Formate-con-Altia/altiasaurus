@@ -29,7 +29,7 @@
             <guid>2022-01-19-static-ejs</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Qué haremos hoy]]></description>
-            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día por Adrián González</li><li>Recursos estáticos del servidor</li><li>Motores de plantilla</li></ul><h2>Recursos</h2><h2>Próxima sesión</h2>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día por Adrián González</li><li>Recursos estáticos del servidor</li><li>Motores de plantilla</li></ul><h2>Recursos</h2><ul><li>Tutorial mínimo de cómo exponer recursos públicos <a href="https://www.digitalocean.com/community/tutorials/nodejs-serving-static-files-in-express">Enlace</a></li><li>3 motores de plantillas de Nodejs/Express comparados <a href="https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/">Enlace</a></li></ul><h2>Próxima sesión</h2>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NPM, Módulos y Express]]></title>
