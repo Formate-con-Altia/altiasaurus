@@ -13,4 +13,7 @@ tags: [nodejs, npm, ejs, express, static]
 
 ## Recursos
 
+- Tutorial mínimo de cómo exponer recursos públicos [Enlace](https://www.digitalocean.com/community/tutorials/nodejs-serving-static-files-in-express)
+- 3 motores de plantillas de Nodejs/Express comparados [Enlace](https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/)
+
 ## Próxima sesión
