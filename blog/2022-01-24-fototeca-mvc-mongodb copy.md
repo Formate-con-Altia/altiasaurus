@@ -18,6 +18,5 @@ tags: [nodejs, npm, mvc, mongodb, atlas]
 
 - Transformar fototeca a MVC
   - Ejercicios
-- Gestión grácil de errores
 - Uso de MongoDB desde NodeJS
 - Esquelto inicial Valida.me y Github
