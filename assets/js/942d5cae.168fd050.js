@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaltiasaurus=self.webpackChunkaltiasaurus||[]).push([[6733],{3032:function(a){a.exports=JSON.parse('{"allTagsPath":"/altiasaurus/blog/tags","slug":"/altiasaurus/blog/tags/npm","name":"npm","count":5,"permalink":"/altiasaurus/blog/tags/npm"}')}}]);

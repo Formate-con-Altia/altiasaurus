@@ -2,18 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://altiasaurus.github.io/altiasaurus/blog</id>
     <title>Altia Saurus Blog</title>
-    <updated>2022-01-24T00:00:00.000Z</updated>
+    <updated>2022-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://altiasaurus.github.io/altiasaurus/blog"/>
     <subtitle>Altia Saurus Blog</subtitle>
     <icon>https://altiasaurus.github.io/altiasaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Relaciones con Mongoose y uso en Express]]></title>
+        <id>2022-01-28-mongoose-relations</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-28-mongoose-relations"/>
+        <updated>2022-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Cómo podemos relacionar diferentes documentos en Mongoose</li><li>Relación usando documentos incrustados o relaciones entre diferentes colecciones</li><li>Uso práctico de Mongoose en una aplicación Express</li><li>Kick-off de la aplicación Valida.me</li></ul><h2>Recursos</h2><ul><li>Aplicación Web completa CRUD usando Express y Mongoose <a href="https://www.youtube.com/watch?v=GVfAPWLkk0M&amp;list=PLo5lAe9kQrwqUEXK7oQbzv63KsdODzuAy">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Primeros requisitos de la aplicación.</li><li>Uso de ramas Git por requisitos</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Esquemas de validación con Mongoose]]></title>
+        <id>2022-01-27-mongoose-schema</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-27-mongoose-schema"/>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Esquemas de validación con Mongoose</li><li>Identificadores de documentos</li></ul><h2>Recursos</h2><ul><li>Esquemas de validación con Mongoose <a href="https://www.youtube.com/watch?v=DZBGEVgL2eE">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Relaciones con Mongoose</li><li>Uso de Mongoose en aplicaciones MVC</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducción a Mongoose]]></title>
+        <id>2022-01-26-mongoose</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-26-mongoose"/>
+        <updated>2022-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Biblioteca Mongoose: un ODM para MongoDB</li></ul><h2>Recursos</h2><ul><li>Introducción práctica a Mongoose <a href="https://www.youtube.com/watch?v=gfP3aqV38q4">Vídeo</a> (Utilizar MONGODB_URI de nuestro servidor Atlas si no se quiere instalar en local MongoDB)</li></ul><h2>Próxima sesión</h2><ul><li>Validaciones con Mongoose y esquemas</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El MVC en aplicaciones Express]]></title>
+        <id>2022-01-25-mvc</id>
+        <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-25-mvc"/>
+        <updated>2022-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>El modelo MVC en aplicaciones Express</li></ul><h2>Recursos</h2><ul><li>MVC con Nodejs/Express <a href="https://medium.com/@ipenywis/what-is-the-mvc-creating-a-node-js-express-mvc-application-da10625a4eda">Enlace</a></li><li>Generador del esqueleto de aplicaciones Express <a href="https://expressjs.com/es/starter/generator.html">Enlace</a></li><li>Plantilla de creación de una aplicación NodeJS con arquitectura hexagonal (Compleja) <a href="https://github.com/TheSoftwareHouse/express-boilerplate">Enlace</a></li></ul><h2>Próxima sesión</h2><ul><li>Introducción a Mongoose</li></ul>]]></content>
+        <author>
+            <name>Óscar Miras</name>
+            <uri>https://github.com/omiras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducción a MongoDB]]></title>
         <id>2022-01-24-fototeca-mvc-mongodb</id>
         <link href="https://altiasaurus.github.io/altiasaurus/blog/2022-01-24-fototeca-mvc-mongodb"/>
         <updated>2022-01-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Qué haremos hoy]]></summary>
-        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día: Ángel Amado</li><li>Introducción a MongoDB usando el servidor Atlas</li></ul><h2>Recursos</h2><ul><li>Tutorial para instalar el servidor MongoDB en local y conocer su funcionamiento <a href="https://www.youtube.com/watch?v=lWMemPN9t6Q">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Transformar fototeca a MVC<ul><li>Ejercicios</li></ul></li><li>Gestión grácil de errores</li><li>Uso de MongoDB desde NodeJS</li><li>Esquelto inicial Valida.me y Github</li></ul>]]></content>
+        <content type="html"><![CDATA[<h2>Qué haremos hoy</h2><ul><li>Algoritmo del día: Ángel Amado</li><li>Introducción a MongoDB usando el servidor Atlas</li></ul><h2>Recursos</h2><ul><li>Tutorial para instalar el servidor MongoDB en local y conocer su funcionamiento <a href="https://www.youtube.com/watch?v=lWMemPN9t6Q">Vídeo</a></li></ul><h2>Próxima sesión</h2><ul><li>Transformar fototeca a MVC<ul><li>Ejercicios</li></ul></li><li>Uso de MongoDB desde NodeJS</li><li>Esquelto inicial Valida.me y Github</li></ul>]]></content>
         <author>
             <name>Óscar Miras</name>
             <uri>https://github.com/omiras</uri>
